@@ -1,3 +1,14 @@
+<!-- default file list -->
+*Files to look at*:
+
+* [FillGridColumn.cs](./CS/FillEmptySpaceGridColumn/FillGridColumn.cs)
+* [FillGridColumnCollection.cs](./CS/FillEmptySpaceGridColumn/FillGridColumnCollection.cs)
+* [FillGridInfoRegistrator.cs](./CS/FillEmptySpaceGridColumn/FillGridInfoRegistrator.cs)
+* [FillGridView.cs](./CS/FillEmptySpaceGridColumn/FillGridView.cs)
+* [Form1.cs](./CS/FillEmptySpaceGridColumn/Form1.cs)
+* [GridControlOverride.cs](./CS/FillEmptySpaceGridColumn/GridControlOverride.cs)
+* [Program.cs](./CS/FillEmptySpaceGridColumn/Program.cs)
+<!-- default file list end -->
 # Capability for a single column to fill an empty space in a grid view
 
 
